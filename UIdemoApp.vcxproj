@@ -145,6 +145,7 @@
   <ItemGroup>
     <ClCompile Include="App.cpp" />
     <ClCompile Include="AppMain.cpp" />
+    <ClCompile Include="AppMain_update.cpp" />
     <ClCompile Include="Cannon\AnimatedVector.cpp" />
     <ClCompile Include="Cannon\DrawCall.cpp" />
     <ClCompile Include="Cannon\DrawCall_init.cpp" />

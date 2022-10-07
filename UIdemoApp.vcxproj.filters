@@ -39,6 +39,9 @@
     <ClCompile Include="Cannon\TrackedHands.cpp">
       <Filter>Cannon</Filter>
     </ClCompile>
+    <ClCompile Include="AppMain_update.cpp">
+      <Filter>AppMain</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />

@@ -36,6 +36,7 @@ private:
 	Texture2D m_textureTest;
 	DrawCall m_modelTest;
 #endif
+	bool showObj = false;
 
 	DirectX::XMMATRIX m_transformTest;
 
